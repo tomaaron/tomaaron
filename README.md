@@ -1,4 +1,4 @@
-### ☁️ lazy procrastinator, real yamler and wannabe SRE ☁️ 
+### ☁️ lazy procrastinator, real yamler and wannabe SRE ☁️ true cloud caretaker ☁️
 
 <!--
 **tomaaron/tomaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
